@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheBudderMan
-- 👀 I’m interested in ... 
-Hey friends, thanks for looking! 
+- 👀 Hey friends, thanks for looking! 
 
 <!---
 TheBudderMan/TheBudderMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
